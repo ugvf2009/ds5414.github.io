@@ -16,7 +16,7 @@
 为啥推荐它哩，因为它属于`灰 黄`色地带的梯子，
 还是比较稳的，不用担心跑路，随便推荐几个身边的小伙伴，即可无限流量上网。
 点下面2个地址可下载。
-| [下载地址1](https://jsq.laihuluwa.com/aff/aAKg7)     | [下载地址2](https://web.lanshuapi.com/aff/aAKg7)
+| [下载地址1](https://web.lanshuapi.com/aff/aAKg7)     | [下载地址2](https://jsq.laihuluwa.com/aff/aAKg7)
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -37,20 +37,20 @@
 
 *  假如你啥也不懂，看Google和Youtube就用下面网址
 
-*  [https://www.5414.gq](https://www.baidu2b.cf) 
+*  [https://www.5414.gq](https://www.ali2b.cf) 
 
    或者这个：
    
-   [https://www.5414.cf](https://www.baidu2b.cf)
+   [https://www.5414.cf](https://www.ali2b.cf)
    
    这个也行
 
-   [https://www.5414.ga](https://www.baidu2b.ga)
+   [https://www.5414.ga](https://www.ali2b.cf)
    
 ## 1、windows平台软件： 
 ### v2rayN
 
-[点我下载](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.5414.cf%2FWindows%2Fv2rayN.zip)
+[点我下载](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.1808.ga%2FWindows%2Fv2rayN.zip)
 
 解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app 
 点击更新一下订阅，收到节点即可使用。
@@ -65,7 +65,7 @@
 
 ### v2rayNG
 
-[点我下载并安装](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.5414.cf%2FAndroid%2Fv2rayNG.apk)
+[点我下载并安装](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.1808.ga%2FAndroid%2Fv2rayNG.apk)
 
 
 **使用方法：**
@@ -84,7 +84,7 @@
 
 ### Clash for Android
 
-[Clash download](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.5414.cf%2FAndroid%2FClashForAndroid-v2.1.6.apk)
+[Clash download](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.1808.ga%2FAndroid%2FClashForAndroid-v2.1.6.apk)
 
 简易教程：
 1、打开软件，点第2个配置。
@@ -97,7 +97,7 @@ https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.netli
 》最后，点击第1个：已停止 三个字启动软件即可。
 不会的话点下面的链接观看小白入门教程
 
-[Clash4android使用教程](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.5414.cf%2FAndroid%2Fclash4android.mp4)
+[Clash4android使用教程](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.1808.ga%2FAndroid%2Fclash4android.mp4)
 
 ##  3、IOS平台 
 
@@ -130,7 +130,9 @@ Shadowroket在ios设备上（含ipad）使用教程
 2.点击通知栏 ClashX 图标保持选中状态，按快捷键 ⌘+M(订阅快捷键)
 会弹出以下窗口。
 ![2.jpg](https://i.loli.net/2019/11/20/8eB13mRbFuszwxg.jpg)
+
 Url：复制下面的链接粘贴进去：
+
 https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.netlify.app&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FMazeorz%2Fairports%2Fmaster%2FClash%2FSkslaPro-Balance.ini
 
 
